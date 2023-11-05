@@ -4,7 +4,7 @@ name: Test
 on:
   workflow_run:
     workflows:
-      - Preflight
+      - Preflight-pipeline
     types:
       - completed
 

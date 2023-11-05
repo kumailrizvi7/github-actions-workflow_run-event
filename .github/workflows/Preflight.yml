@@ -1,5 +1,5 @@
 ---
-name: Preflight
+name: Preflight-pipeline
 
 on:
   - pull_request
