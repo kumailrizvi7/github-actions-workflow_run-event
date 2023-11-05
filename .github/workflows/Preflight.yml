@@ -4,6 +4,8 @@ name: Preflight-pipeline-1
 on:
   - pull_request
   - push
+  branches:
+  - Dev 
 
 jobs:
   preflight-job:
